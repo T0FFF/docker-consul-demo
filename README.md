@@ -3,6 +3,7 @@ Automatic proxified docker setup demo
 
 [![By Camptocamp](https://img.shields.io/badge/by-camptocamp-fb7047.svg)](http://www.camptocamp.com)
 
+This repo is clone of https://github.com/camptocamp/docker-consul-demo
 
 # ToFF
 Consul Template can query a service entries, keys, and key values in Consul. The powerful abstraction and template query language makes Consul Template perfect for creating dynamic configurations like "haproxy, nginx, apache... (load balancer)
